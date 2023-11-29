@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import "./index.css";
 import FoodEntry from "./components/FoodEntry";
 import haitianWhiteRice from "./assets/haitian-rice-example.png";
